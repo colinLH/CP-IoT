@@ -4,9 +4,17 @@
 
 **CP-IoT** is a smart home monitoring system that is compatible with different IoT platforms. It is able to monitor IoT device state, automation rule execution, and discover various kinds of anomalies and attacks. In addition, CP-IoT can discover all kinds of hidden interactions between automation rules that have been deployed by the user, which can be deployed on one platform or multiple different platforms.
 
-# Attack Plane
+## Attack Plane
 
+![Image text](https://github.com/colinLH/CP-IoT/blob/main/figure/attack.png)
 
+## Precondition
+
+- The platform supports local control through apps.
+
+- Devices are paired with official home control centers (e.g., Homekit Homepod, SmartThings Hub), routers, or mobile phones via Bluetooth.
+
+- Customized hubs (e.g. Home-Assistant, HomeBridge builds) generate communication messages that may deviate from the official fingerprints.
 
 
 # More Papers Detail
