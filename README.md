@@ -17,12 +17,15 @@
 - Customized hubs (e.g. Home-Assistant, HomeBridge builds) generate communication messages that may deviate from the official fingerprints.
 
 
-# More Papers Detail
+# Experimental Setup
+
 Devices deployed in Real Testbed
 
 ![Image text](https://github.com/colinLH/CP-IoT/blob/main/figure/real_testbed.png)
 
 Devices deployed in Simulation Testbed 
+
+# Evaluation Details
 
 ![Image text](https://github.com/colinLH/CP-IoT/blob/main/figure/simulation.png)
 
@@ -33,6 +36,12 @@ Capability pair used in Rules Extraction
 Capability pair used in Rules Extraction 
 
 ![Image text](https://github.com/colinLH/CP-IoT/blob/main/figure/capability_pair2.png)
+
+
+End-to-End System Performance
+
+![Image text](https://github.com/colinLH/CP-IoT/blob/main/figure/end2end.png)
+
 
 
 
