@@ -37,6 +37,9 @@ Capability pair used in Rules Extraction
 
 ![Image text](https://github.com/colinLH/CP-IoT/blob/main/figure/capability_pair2.png)
 
+Fingerprints of each device event/command
+
+![Image text](https://github.com/colinLH/CP-IoT/blob/main/figure/fingerprint.png)
 
 End-to-End System Performance
 
