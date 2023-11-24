@@ -1,3 +1,11 @@
+# CP-IoT: A Cross-Platform Monitoring System for Smart Home
+
+![Image text](https://github.com/colinLH/CP-IoT/blob/main/figure/system.png)
+
+**CP-IoT** is a smart home monitoring system that is compatible with different IoT platforms. It is able to realize IoT device status monitoring, automation rule execution monitoring, and discover all kinds of anomalies and attacks. In addition, CP-IoT can discover all kinds of hidden interactions between automation rules that have been deployed by the user, which can be deployed on one platform or multiple different platforms.
+
+
+
 # More Papers Detail
 Devices deployed in Real Testbed
 
